@@ -19,7 +19,7 @@ app.add_middleware(
         "https://wind-analytics-engine-482.vercel.app/",
     ],
     allow_credentials=False,
-    allow_methods=["Get"],
+    allow_methods=["GET"],
     allow_headers=["*"],
 )
 
