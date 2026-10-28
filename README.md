@@ -89,11 +89,9 @@ Install the following:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/wind-analytics-engine-482.git
+git clone https://github.com/AnandBhagat345/wind-analytics-engine-482.git
 cd wind-analytics-engine-482
 ```
-
-Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
 
 ### 2. Set Up the Backend
 
